@@ -1,2 +1,2 @@
 # java-ScreenShot
-This is a java application that takes a screenshot of an entire screen. 
+This is a java application that takes a screenshot of an entire screen. A console based application.
